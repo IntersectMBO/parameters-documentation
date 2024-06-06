@@ -1,3 +1,3 @@
-# xxxx Committee Changelog
+# Parameters Committee Changelog
 
 All major changes to this project will be documented in this file.

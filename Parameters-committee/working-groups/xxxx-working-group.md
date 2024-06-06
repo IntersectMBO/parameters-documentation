@@ -1,4 +1,4 @@
-# xxxx Working Group
+# Parameters Working Group
 
 ## Purpose / Goal
 
