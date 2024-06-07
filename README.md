@@ -1,7 +1,7 @@
 # Parameters Committee Documentation
 
 This repository stores the documentation for Parameters committee.
-This documentation is hosted (for reading) at [intersect.gitbook.io/Parameter-committee]([https://intersect.gitbook.io/Parameter-committee]).
+This documentation is hosted (for reading) at [intersect.gitbook.io/Parameter-committee]([https://intersect.gitbook.io/Parameter-committee).
 
 ## 🤝 Contributing
 
