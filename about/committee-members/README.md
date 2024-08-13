@@ -4,6 +4,20 @@
 This page is written on behalf of the Parameters Committee, the information contained is subject to change and amendment by the committee chairs at any time and should be used at your own risk
 {% endhint %}
 
+## Committee Composition
+
+1 Chair
+
+17 Seats
+
+1 Secretary
+
+2 Communications Roles
+
+17 Contributing Subject Matter Experts (SMEs)
+
+##
+
 ## Parameter Committee members
 
 * The Governing Board may appoint a chairperson (or “Chair) and a vice-chair, or it may choose to delegate responsibility for selecting or electing a chair to the committee or subcommittee.
