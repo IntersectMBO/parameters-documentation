@@ -27,7 +27,7 @@ Governance group: Oscar West, Riley Kilgore, Nicolas Cerny
 Communications: Matthew Capps, Tommy Kammerer\
 Domain experts: Martin Lang, Andrew Westberg\
 Observers: WIP\
-Secretary: Joaquín López
+Secretary: Lewis Mayne
 
 ###
 
