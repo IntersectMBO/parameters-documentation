@@ -18,4 +18,6 @@ Duties include:
 
 
 
-## &#x20;<a href="#updated-list-of-the-members-interim-state" id="updated-list-of-the-members-interim-state"></a>
+{% hint style="warning" %}
+The Parameters Committee is a mature and highly effective group that plays a crucial role in the Cardano ecosystem. It is a subcommittee of the Technical Steering Committee. At this time, subcommittees and working groups are not subject to formal elections. However, they are to be held accountable by their elected steering committees and ultimately the Intersect membership. Wherever practically possible, they should provide opportunities for all to participate, and to align with what we hope are seen as fair and transparent democratic processes used by Intersect steering committees. As Intersect grows or should the capacity and purpose of subcommittees and working groups change, at the request of the membership, this decision may be reviewed in the future. The members of the Parameters Committee are vetted individuals who meet specific criteria and possess the necessary technical expertise for effective decision-making. This structure ensures that the committee operates efficiently and makes informed decisions for the Cardano ecosystem.
+{% endhint %}

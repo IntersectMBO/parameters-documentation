@@ -5,6 +5,7 @@
 * [About Parameter Committee](README.md)
 * [Committee Members](about/committee-members/README.md)
   * [Roles and Responsibilities](about/committee-members/roles-and-responsibilities.md)
+  * [Committee process](about/committee-members/committee-process.md)
 * [Advisory Groups](about/advisory-groups.md)
 * [How to Join or Contact us?](about/how-to-join-or-contact-us.md)
 

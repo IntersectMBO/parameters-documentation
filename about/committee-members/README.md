@@ -16,7 +16,19 @@ This page is written on behalf of the Parameters Committee, the information cont
 
 17 Contributing Subject Matter Experts (SMEs)
 
-##
+## Criteria for roles
+
+**Chair/Vice-Chairs**
+
+Detailed knowledge of the Cardano ecosystem and node implementation, understanding of the effect of each protocol parameter on the operation of Cardano, technical understanding across all areas: technical/security, network, economic and governance, proven ability to lead and manage complex technical discussions, to resolve technical conflicts, and ensure consensus&#x20;
+
+**Advisory Group Chairs**
+
+Expert understanding of Cardano, expert knowledge of the relevant area: technical/security, network, economic or governance, ability to lead the advisory group, collect and distill technical discussions within the group, and represent the area in open discussion with other members of the parameter committee
+
+**Domain Experts**
+
+Strong engagement within and knowledge of the relevant domain (SPO, DApp, …), ability to represent the concerns of the domain in technical discussions of protocol parameters, and to follow and engage in technical discussions across different areas
 
 ## Parameter Committee members
 
