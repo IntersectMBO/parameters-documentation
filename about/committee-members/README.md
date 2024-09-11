@@ -8,13 +8,9 @@ This page is written on behalf of the Parameters Committee, the information cont
 
 1 Chair
 
-17 Seats
+29 Members (Which consists of 2 Communications Roles and 17 Contributing Subject Matter Experts (SMEs)
 
 1 Secretary
-
-2 Communications Roles
-
-17 Contributing Subject Matter Experts (SMEs)
 
 ## Criteria for roles
 
