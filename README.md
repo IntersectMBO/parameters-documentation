@@ -4,7 +4,11 @@
 This page is written on behalf of the Parameters Committee, the information contained is subject to change and amendment by the committee chairs at any time and should be used at your own risk
 {% endhint %}
 
-The purpose of the Parameters Committee is to provide technical advice and recommendations regarding the upgradable parameters of the protocol, taking into account economic, security, network and other technical considerations, as appropriate to protect the long-term sustainability of the Cardano blockchain.
+
+
+### Purpose and Scope
+
+The Parameters Committee is to provide technical advice and recommendations regarding the upgradable parameters of the protocol, taking into account economic, security, network and other technical considerations, as appropriate to protect the long-term sustainability of the Cardano blockchain.
 
 Duties include:
 
