@@ -8,6 +8,10 @@ This page is written on behalf of the Parameters Committee, the information cont
 * Anybody can submit Parameter Change Proposals (PCP) on the Cardano Forum to request a technical recommendation from the committee. Please use this [link](https://docs.google.com/document/d/1L04Xrcw1fE450TgO5KzaV3g-IK\_-nsY7DUqo8lZZsTE/edit).
 * Members of the committee participate in monthly SPO Calls to provide updates and answer questions from the SPO community.
 
+### Communication channels
+
+
+
 
 
 You can also email us at [parameters-committee@intersectmbo.org](mailto:parameters-committee@intersectmbo.org)

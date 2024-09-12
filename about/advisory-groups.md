@@ -4,6 +4,14 @@
 This page is written on behalf of the Parameters Committee, the information contained is subject to change and amendment by the committee chairs at any time and should be used at your own risk
 {% endhint %}
 
+## Advisory group members
+
+Each Committee may freely establish advisory groups to study and address temporary work items.
+
+* The Parameter Committee members will propose and vote on the appointment of a Head for the working groups.
+* The head of the working group may invite any person or representative of an organization to participate in working groups. Working group heads are responsible to report back to their respective committee or subcommittee.
+* Representatives of the SPO and dRep community can also apply to become members of the working groups.
+
 The Parameter Committee has grouped the protocol parameter changes by type, allowing different thresholds to be set for each group.
 
 We are not, however, restricting each protocol parameter governance action to be contained within one group. In case where a governance action carries updates for multiple parameters from different groups, the maximum threshold of all the groups involved will apply to any given such governance action.

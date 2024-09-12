@@ -4,44 +4,36 @@
 This page is written on behalf of the Parameters Committee, the information contained is subject to change and amendment by the committee chairs at any time and should be used at your own risk
 {% endhint %}
 
+## List of the Members (interim state) <a href="#updated-list-of-the-members-interim-state" id="updated-list-of-the-members-interim-state"></a>
+
+**Chairs:**\
+Chair: Kevin Hammond\
+Vice- chair: Alex Moser\
+Vice- chair: Vijay Bhuvangiri
+
+**Advisory Group Heads:**\
+Network group: Neil Davies\
+Technical group: Markus Gufler\
+Economic group: Samuel Leathers\
+Governance group: Adam Rusch
+
+**Advisory Group Members:**\
+Network group: Karl Knutson, Matthias Sieber, Marcin Szamotulski\
+Technical group: Ruslan Dudin, Michael Peyton Jones, Ashish Prajapati\
+Economic group: Sergio Sanchez, Philip Lazos, Giovanni Gargiulo\
+Governance group: Oscar West, Riley Kilgore, Nicolas Cerny
+
+**Other:**\
+Communications: Matthew Capps, Tommy Kammerer\
+Domain experts: Martin Lang, Andrew Westberg\
+Observers: WIP\
+Secretary: Lewis Mayne
+
 ## Committee Composition
 
 1 Chair
 
-29 Members (Which consists of 2 Communications Roles and 17 Contributing Subject Matter Experts (SMEs)
+29 Members (Which consists of Contributing Subject Matter Experts (SMEs) and Communication roles)
 
 1 Secretary
 
-## Criteria for roles
-
-**Chair/Vice-Chairs**
-
-Detailed knowledge of the Cardano ecosystem and node implementation, understanding of the effect of each protocol parameter on the operation of Cardano, technical understanding across all areas: technical/security, network, economic and governance, proven ability to lead and manage complex technical discussions, to resolve technical conflicts, and ensure consensus&#x20;
-
-**Advisory Group Chairs**
-
-Expert understanding of Cardano, expert knowledge of the relevant area: technical/security, network, economic or governance, ability to lead the advisory group, collect and distill technical discussions within the group, and represent the area in open discussion with other members of the parameter committee
-
-**Domain Experts**
-
-Strong engagement within and knowledge of the relevant domain (SPO, DApp, …), ability to represent the concerns of the domain in technical discussions of protocol parameters, and to follow and engage in technical discussions across different areas
-
-## Parameter Committee members
-
-* The Governing Board may appoint a chairperson (or “Chair) and a vice-chair, or it may choose to delegate responsibility for selecting or electing a chair to the committee or subcommittee.
-* Committee members will be appointed by the chairs along technocratic/meritocratic lines.
-* Only members of Intersect are eligible to apply to participate as members in the Parameter Committee and its subcommittees.
-
-## Key Committee members
-
-
-
-<table><thead><tr><th width="219">Name</th><th width="323">Brief summary and experience</th></tr></thead><tbody><tr><td>Kevin Hammond</td><td>Kevin is Head of Engineering (Cardano Core) at IO Engineering. He has a background in (distributed) performance analysis, safety and security. He has led the Cardano Core Development team through 8 hard forks (from Shelley to Chang), and has a detailed knowledge of the Cardano node and its on-chain operation.</td></tr><tr><td>Markus Gufler</td><td>Markus has 25 years of experience in ISP business, IT infrastructure, networking and monitoring. He has been and is active in many areas of the Cardano ecosystem, as a developer, facilitator, consultant and stake pool operator. In the Cardano Foundation, he helps to mediate between the technically oriented community and the various teams and projects in the Foundation.</td></tr><tr><td>Alexander Moser</td><td>Alex is the Associate Head of Infrastructure at Cardano Foundation. Previously, he set up custodial and non-custodial security systems for banks across 19 different blockchains and led the institutionalization of staking as a financial instrument in Switzerland. His knowledge of and insights into various ecosystems eventually brought him to Cardano.</td></tr><tr><td>Vijayanath Bhuvanagiri</td><td>Vijay is the CTO at EMURGO, he led the revamp of Yoroi wallet architecture. Vijay is currently leading the technical effort for launching USDA stable coin on Cardano blockchain.</td></tr><tr><td>Neil Davies</td><td>Neil consults on system performance, networking and design-for-maintenance. He has a background in large scale distributed systems and systems deployed in adversarial settings. He has been advising Cardano since 2017 contributing to the networking, node architecture and deployment.</td></tr><tr><td>Samuel Leathers</td><td>Sam is Head of Product for IO Engineering. He has been involved in Cardano since the Byron days and led the way through multiple hard forks wearing many hats. He now works directly with the development teams on prioritizing features going into cardano-node. While not having an economic background, he has lots of experience with the economic parameters of Cardano and the contention between them from working with pools since the Shelley era.</td></tr><tr><td>Adam Rusch</td><td>Adam is a Teaching Assistant Professor at the University of Illinois at Urbana-Champaign (UIUC), where he instructs courses on information systems and delves into the social impact of IT. His PhD work, coupled with over ten years of experience, guides his research in blockchain and decentralized governance. He has played a pivotal role in establishing the ADAO on the Cardano blockchain and in developing the Summon Platform for DAO management. He is committed to clarifying decentralized technology and its implications for society and organizations.</td></tr></tbody></table>
-
-## Advisory group members
-
-Each Committee may freely establish advisory groups to study and address temporary work items.
-
-* The Parameter Committee members will propose and vote on the appointment of a Head for the working groups.
-* The head of the working group may invite any person or representative of an organization to participate in working groups. Working group heads are responsible to report back to their respective committee or subcommittee.
-* Representatives of the SPO and dRep community can also apply to become members of the working groups.
