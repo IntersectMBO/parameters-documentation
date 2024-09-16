@@ -1,7 +1,7 @@
 # How to Join or Contact us?
 
 {% hint style="info" %}
-This page is written on behalf of the Parameters Committee, the information contained is subject to change and amendment by the committee chairs at any time and should be used at your own risk
+This page is written on behalf of the Parameter Committee, the information contained is subject to change and amendment by the committee chairs at any time and should be used at your own risk
 {% endhint %}
 
 * As this is a highly technical subcommittee, members can only join at the invitation of current members.&#x20;

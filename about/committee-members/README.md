@@ -1,7 +1,7 @@
 # Committee Members
 
 {% hint style="info" %}
-This page is written on behalf of the Parameters Committee, the information contained is subject to change and amendment by the committee chairs at any time and should be used at your own risk
+This page is written on behalf of the Parameter Committee, the information contained is subject to change and amendment by the committee chairs at any time and should be used at your own risk
 {% endhint %}
 
 ## List of the Members (interim state) <a href="#updated-list-of-the-members-interim-state" id="updated-list-of-the-members-interim-state"></a>

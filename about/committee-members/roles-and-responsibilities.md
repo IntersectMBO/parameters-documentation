@@ -1,7 +1,7 @@
 # Roles and Responsibilities
 
 {% hint style="info" %}
-This page is written on behalf of the Parameters Committee, the information contained is subject to change and amendment by the committee chairs at any time and should be used at your own risk
+This page is written on behalf of the Parameter Committee, the information contained is subject to change and amendment by the committee chairs at any time and should be used at your own risk
 {% endhint %}
 
 ## Criteria for roles
