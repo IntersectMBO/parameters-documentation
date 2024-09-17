@@ -12,6 +12,8 @@ Each Committee may freely establish advisory groups to study and address tempora
 * The head of the working group may invite any person or representative of an organization to participate in working groups. Working group heads are responsible to report back to their respective committee or subcommittee.
 * Representatives of the SPO and dRep community can also apply to become members of the working groups.
 
+### Protocol parameter governance
+
 The Parameter Committee has grouped the protocol parameter changes by type, allowing different thresholds to be set for each group.
 
 We are not, however, restricting each protocol parameter governance action to be contained within one group. In case where a governance action carries updates for multiple parameters from different groups, the maximum threshold of all the groups involved will apply to any given such governance action.

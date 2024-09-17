@@ -31,9 +31,7 @@ Secretary: Lewis Mayne
 
 ## Committee Composition
 
-1 Chair
-
-29 Members (Which consists of Contributing Subject Matter Experts (SMEs) and Communication roles)
-
-1 Secretary
+* 1 Chair
+* 29 Members (consisting of Contributing Subject Matter Experts (SMEs) and Communication roles)
+* 1 Secretary
 

@@ -10,8 +10,14 @@ This page is written on behalf of the Parameter Committee, the information conta
 
 ### Communication channels
 
+Discord channels:
 
+[https://discordapp.com/channels/1136727663583698984/1258845179104858112](https://discordapp.com/channels/1136727663583698984/1258845179104858112)
 
+[https://discordapp.com/channels/1136727663583698984/1258845289046081536](https://discordapp.com/channels/1136727663583698984/1258845289046081536)
 
+Cardano Forum:
+
+[https://forum.cardano.org/c/governance/parameters-committee-updates/220](https://forum.cardano.org/c/governance/parameters-committee-updates/220)
 
 You can also email us at [parameters-committee@intersectmbo.org](mailto:parameters-committee@intersectmbo.org)

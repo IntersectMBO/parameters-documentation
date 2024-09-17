@@ -4,19 +4,30 @@
 This page is written on behalf of the Parameter Committee, the information contained is subject to change and amendment by the committee chairs at any time and should be used at your own risk
 {% endhint %}
 
-## Criteria for roles
+## Criteria for Committee Roles
 
-**Chair/Vice-Chairs**
+### Chair/Vice-Chairs
 
-Detailed knowledge of the Cardano ecosystem and node implementation, understanding of the effect of each protocol parameter on the operation of Cardano, technical understanding across all areas: technical/security, network, economic and governance, proven ability to lead and manage complex technical discussions, to resolve technical conflicts, and ensure consensus&#x20;
+* Detailed knowledge of the Cardano ecosystem and node implementation
+* Understanding of the effect of each protocol parameter on Cardano's operation
+* Technical expertise across all areas: technical/security, network, economic, and governance
+* Proven ability to lead and manage complex technical discussions
+* Ability to resolve technical conflicts
+* Capacity to ensure consensus among committee members
 
-**Advisory Group Chairs**
+### Advisory Group Chairs
 
-Expert understanding of Cardano, expert knowledge of the relevant area: technical/security, network, economic or governance, ability to lead the advisory group, collect and distill technical discussions within the group, and represent the area in open discussion with other members of the parameter committee
+* Expert understanding of Cardano
+* Expert knowledge in the relevant area (technical/security, network, economic, or governance)
+* Ability to lead the advisory group
+* Skill in collecting and distilling technical discussions within the group
+* Capacity to represent the area in open discussion with other committee members
 
-**Domain Experts**
+### Domain Experts
 
-Strong engagement within and knowledge of the relevant domain (SPO, DApp, …), ability to represent the concerns of the domain in technical discussions of protocol parameters, and to follow and engage in technical discussions across different areas
+* Strong engagement within and knowledge of the relevant domain (SPO, DApp, etc.)
+* Ability to represent the concerns of the domain in technical protocol parameter discussions
+* Engagement in following and participating in technical discussions across different areas
 
 ## Parameter Committee members
 
