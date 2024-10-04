@@ -18,7 +18,7 @@ Economic group: Samuel Leathers\
 Governance group: Adam Rusch
 
 **Advisory Group Members:**\
-Network group: Karl Knutson, Matthias Sieber, Marcin Szamotulski\
+Network group: Karl Knutson, Marcin Szamotulski\
 Technical group: Ruslan Dudin, Michael Peyton Jones, Ashish Prajapati\
 Economic group: Sergio Sanchez, Philip Lazos, Giovanni Gargiulo\
 Governance group: Oscar West, Riley Kilgore, Nicolas Cerny
@@ -32,6 +32,6 @@ Secretary: Lewis Mayne
 ## Committee Composition
 
 * 1 Chair
-* 29 Members (consisting of Contributing Subject Matter Experts (SMEs) and Communication roles)
+* 24 members in total (consisting of Contributing Subject Matter Experts (SMEs) and Communication roles)
 * 1 Secretary
 

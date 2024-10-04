@@ -6,4 +6,4 @@ This page is written on behalf of the Parameter Committee, the information conta
 
 
 
-<figure><img src="../../.gitbook/assets/Parameters process flow (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Parameters process flow (1).png" alt=""><figcaption><p>Parameter committee process &#x26; flow</p></figcaption></figure>
