@@ -42,6 +42,7 @@
 
 * [SOP - PCP process](standards-operational-procedures/sop-pcp-process.md)
 * [SOP - CR process](standards-operational-procedures/sop-cr-process.md)
+* [Terms of Reference: draft](standards-operational-procedures/terms-of-reference-draft.md)
 
 ## Blogposts
 
