@@ -2,9 +2,7 @@
 hidden: true
 ---
 
-# Code of Conduct: draft
-
-#### Code of Conduct
+# Code of Conduct
 
 ### **Core Values**
 
@@ -36,7 +34,7 @@ Members shall disclose any potential conflicts of interest and recuse themselves
 
 **Respect for Process**
 
-Members shall respect the committee's decision-making processes and support decisions once made, even if initially disagreeing.
+Members shall respect the committee's decision-making processes and support decisions once made, even if initially disagreeing.  Minority opinions may be recorded where relevant.
 
 ### **Ethical Standards**
 
@@ -56,23 +54,19 @@ Members shall promote transparency in all committee activities and decision-maki
 
 Members shall prioritize the best interests of the Cardano ecosystem over personal or organizational interests.
 
-### **Communication and Behavior**
+### **Communication and Behaviour**
 
 **Respectful Dialogue**
 
 Members shall engage in respectful, constructive dialogue, even in disagreement.
 
-**Inclusive Language**
+**Inclusivity**
 
-Members shall use inclusive language and avoid discriminatory or offensive remarks.
-
-**Active Listening**
-
-Members shall practice active listening and consider diverse viewpoints.
+Members shall use inclusive language and avoid discriminatory or offensive remarks. Members shall  listen to and consider diverse viewpoints.
 
 **Professionalism**
 
-Members shall maintain a professional demeanor in all committee-related interactions.
+Members shall maintain a professional demeanour in all committee-related interactions.
 
 **Resource Usage**
 
@@ -84,15 +78,15 @@ When representing the committee publicly, members shall accurately convey commit
 
 **Continuous Learning**
 
-Members shall commit to ongoing education about budget processes, blockchain technology, and the Cardano ecosystem to enhance their contributions to the committee.
+Members shall commit to ongoing education about blockchain technology and the Cardano ecosystem in order to enhance their contributions to the committee.
 
 **Reporting Violations**
 
-Members who observe violations of this Code of Conduct shall report them to the Committee Chair or appropriate authority.
+Members who observe violations of this Code of Conduct shall report them to the Committee Chair(s), Secretary or other appropriate authority. Violations will be consider in confidence.
 
 **Enforcement**
 
-Violations of this Code of Conduct may result in warnings, temporary suspension, or removal from the committee, as determined by the appropriate governing body.
+Violations of this Code of Conduct may result in warnings, temporary suspension, or, in extreme cases, removal from the committee.
 
 **Acknowledgment**
 
