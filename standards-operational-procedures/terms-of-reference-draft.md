@@ -47,19 +47,19 @@ Other members of Advisory Groups may also attend as observers.
 
 ### **Roles and Responsibilities**
 
-Roles and responsibilities are detailed in the ..... including but not limited to Chair, Secretary, Voting Members, and various subject matter expert roles.
+Roles and responsibilities are detailed in our committee members section including but not limited to Chair, Secretary, Voting Members, and various subject matter expert roles.
 
 ### **Meeting Procedures**
 
-The committee shall convene regularly (frequency to be determined) Quorum for decision-making: At least two-thirds of voting members present Voting procedures as outlined in the charter for both in-person/video meetings and offline voting
+The committee shall convene regularly (frequency to be determined). Quorum for decision-making: At least two-thirds of voting members present. Voting procedures as outlined in the charter for both in-person/video meetings and offline voting.
 
 ### **Decision Making**
 
-Simple majority required for most decisions Super majority (2/3) required for charter modifications, membership changes, and budget recommendation expansions or reductions Roberts Rules of Order (version 12) to govern all other decisions
+Simple majority required for most decisions Super majority (2/3) required for charter modifications, membership changes, and budget recommendation expansions or reductions. Roberts Rules of Order (version 12) to govern all other decisions.
 
 ### **Reporting**
 
-The Budget Committee will report periodically to the Intersect Board and the broader Cardano community on its activities, decisions, and recommendations.
+The parameters committee will report periodically to the Intersect Board and the broader Cardano community on its activities, decisions, and recommendations.
 
 ### **Working Groups**
 
