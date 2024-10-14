@@ -40,10 +40,10 @@
 
 ## Standards operational procedures
 
+* [Terms of Reference](standards-operational-procedures/terms-of-reference.md)
+* [Code of Conduct](standards-operational-procedures/code-of-conduct.md)
 * [SOP - PCP process](standards-operational-procedures/sop-pcp-process.md)
 * [SOP - CR process](standards-operational-procedures/sop-cr-process.md)
-* [Terms of Reference: draft](standards-operational-procedures/terms-of-reference-draft.md)
-* [Code of Conduct](standards-operational-procedures/code-of-conduct.md)
 
 ## Blogposts
 

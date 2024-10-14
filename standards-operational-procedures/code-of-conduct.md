@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Code of Conduct
 
 ### **Core Values**

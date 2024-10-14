@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# Terms of Reference: draft
+# Terms of Reference
 
 ## Terms of Reference: Parameter Committee
 
