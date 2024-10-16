@@ -11,8 +11,9 @@
 
 ## Committee Meeting Notes
 
-* [September 19, 2024](committee-meeting-notes/july-18-2024.md)
-* [August 29, 2024](committee-meeting-notes/july-18-2024-1.md)
+* [October 10, 2024](committee-meeting-notes/july-18-2024.md)
+* [September 19, 2024](committee-meeting-notes/july-18-2024-1.md)
+* [August 29, 2024](committee-meeting-notes/july-18-2024-1-1.md)
 * [July 18, 2024](committee-meeting-notes/july-18-2024-2.md)
 * [June 27, 2024](committee-meeting-notes/june-27-2024.md)
 * [June 6, 2024](committee-meeting-notes/june-6-2024.md)
