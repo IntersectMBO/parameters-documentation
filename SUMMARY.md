@@ -11,10 +11,11 @@
 
 ## Committee Meeting Notes
 
-* [October 10, 2024](committee-meeting-notes/july-18-2024.md)
-* [September 19, 2024](committee-meeting-notes/july-18-2024-1.md)
+* [October 31, 2024](committee-meeting-notes/july-18-2024.md)
+* [October 10, 2024](committee-meeting-notes/july-18-2024-1.md)
+* [September 19, 2024](committee-meeting-notes/july-18-2024-2.md)
 * [August 29, 2024](committee-meeting-notes/july-18-2024-1-1.md)
-* [July 18, 2024](committee-meeting-notes/july-18-2024-2.md)
+* [July 18, 2024](committee-meeting-notes/july-18-2024-2-1.md)
 * [June 27, 2024](committee-meeting-notes/june-27-2024.md)
 * [June 6, 2024](committee-meeting-notes/june-6-2024.md)
 * [May 16, 2024](committee-meeting-notes/may-16-2024.md)
@@ -38,6 +39,8 @@
 * [Apr 20, 2023](committee-meeting-notes/apr-20-2023.md)
 * [Apr 6, 2023](committee-meeting-notes/apr-6-2023.md)
 * [Page](committee-meeting-notes/page.md)
+* [Copy of October 10, 2024](committee-meeting-notes/july-18-2024-3.md)
+* [October 10, 2024](committee-meeting-notes/july-18-2024-4.md)
 
 ## Standards operational procedures
 
