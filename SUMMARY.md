@@ -39,8 +39,6 @@
 * [Apr 20, 2023](committee-meeting-notes/apr-20-2023.md)
 * [Apr 6, 2023](committee-meeting-notes/apr-6-2023.md)
 * [Page](committee-meeting-notes/page.md)
-* [Copy of October 10, 2024](committee-meeting-notes/july-18-2024-3.md)
-* [October 10, 2024](committee-meeting-notes/july-18-2024-4.md)
 
 ## Standards operational procedures
 
