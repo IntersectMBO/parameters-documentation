@@ -46,6 +46,7 @@
 * [Code of Conduct](standards-operational-procedures/code-of-conduct.md)
 * [SOP - PCP process](standards-operational-procedures/sop-pcp-process.md)
 * [SOP - CR process](standards-operational-procedures/sop-cr-process.md)
+* [Technical Rationale for Guardrails](standards-operational-procedures/technical-rationale-for-guardrails.md)
 
 ## Blogposts
 
