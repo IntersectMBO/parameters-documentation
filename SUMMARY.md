@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-* [About Parameter Committee](README.md)
+* [Parameters Sub-Committee](README.md)
 * [Committee Members](about/committee-members/README.md)
   * [Roles and Responsibilities](about/committee-members/roles-and-responsibilities.md)
   * [Committee Process & Flow](about/committee-members/committee-process-and-flow.md)
